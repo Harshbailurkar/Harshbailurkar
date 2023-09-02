@@ -174,7 +174,7 @@ I'm a passionate third-year Computer Science Engineering student with a strong i
     </td>
     <td align="center" height="108" width="108">
       <img
-        src="https://github.com/Harshbailurkar/Harshbailurkar/assets/113308692/946b7040-9219-4f4b-83bd-bf57bfde0022
+        src="https://github.com/Harshbailurkar/Harshbailurkar/assets/113308692/1b50fe41-ac50-4971-9c88-161f8117ff2a
 "
         width="48"
         height="48"
