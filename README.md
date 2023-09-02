@@ -59,7 +59,7 @@ I'm a passionate third-year Computer Science Engineering student with a strong i
   <tr>
     <td align="center" height="108" width="108">
       <img
-        src="![image](https://github.com/Harshbailurkar/Harshbailurkar/assets/113308692/244bdca2-a9da-44d0-b6c6-5a344983bd2b)
+        src="https://github.com/Harshbailurkar/Harshbailurkar/assets/113308692/244bdca2-a9da-44d0-b6c6-5a344983bd2b
 "
         width="48"
         height="48"
@@ -96,7 +96,7 @@ I'm a passionate third-year Computer Science Engineering student with a strong i
       </td>
     <td align="center" height="108" width="108">
       <img
-        src="![image](https://github.com/Harshbailurkar/Harshbailurkar/assets/113308692/5ac2d53d-e4f4-463b-ae6b-0d857d5358c6)
+        src="https://github.com/Harshbailurkar/Harshbailurkar/assets/113308692/5ac2d53d-e4f4-463b-ae6b-0d857d5358c6
 "
         width="48"
         height="48"
@@ -110,7 +110,7 @@ I'm a passionate third-year Computer Science Engineering student with a strong i
   <tr>
     <td align="center" height="108" width="108">
       <img
-        src="![image](https://github.com/Harshbailurkar/Harshbailurkar/assets/113308692/a2f002d9-f924-4024-b47b-3fbb10acda64)
+        src="https://github.com/Harshbailurkar/Harshbailurkar/assets/113308692/a2f002d9-f924-4024-b47b-3fbb10acda64
 
 "
         width="48"
@@ -121,7 +121,7 @@ I'm a passionate third-year Computer Science Engineering student with a strong i
     </td>
     <td align="center" height="108" width="108">
       <img
-        src="![image](https://github.com/Harshbailurkar/Harshbailurkar/assets/113308692/cb352a24-b176-45fe-8206-9ee7616fe549)
+        src="https://github.com/Harshbailurkar/Harshbailurkar/assets/113308692/cb352a24-b176-45fe-8206-9ee7616fe549
 "
         width="48"
         height="48"
@@ -131,7 +131,7 @@ I'm a passionate third-year Computer Science Engineering student with a strong i
     </td>
     <td align="center" height="108" width="108">
       <img
-        src="![image](https://github.com/Harshbailurkar/Harshbailurkar/assets/113308692/f9cb692e-acef-4e41-866f-c068ebbd468b)
+        src="https://github.com/Harshbailurkar/Harshbailurkar/assets/113308692/f9cb692e-acef-4e41-866f-c068ebbd468b
 "
         width="48"
         height="48"
@@ -141,7 +141,7 @@ I'm a passionate third-year Computer Science Engineering student with a strong i
       </td>
     <td align="center" height="108" width="108">
       <img
-        src="![image](https://github.com/Harshbailurkar/Harshbailurkar/assets/113308692/1386c79b-0431-4b76-a7a9-d78e7d83b4b6)
+        src="https://github.com/Harshbailurkar/Harshbailurkar/assets/113308692/1386c79b-0431-4b76-a7a9-d78e7d83b4b6
 "
         width="48"
         height="48"
@@ -151,9 +151,7 @@ I'm a passionate third-year Computer Science Engineering student with a strong i
       </td>
     <td align="center" height="108" width="108">
       <img
-        src="![image](https://github.com/Harshbailurkar/Harshbailurkar/assets/113308692/1b50fe41-ac50-4971-9c88-161f8117ff2a)
-
-"
+        src="https://github.com/Harshbailurkar/Harshbailurkar/assets/113308692/1b50fe41-ac50-4971-9c88-161f8117ff2a"
         width="48"
         height="48"
         alt="React"
@@ -166,8 +164,7 @@ I'm a passionate third-year Computer Science Engineering student with a strong i
   <tr>
     <td align="center" height="108" width="108">
       <img
-        src="![image](https://github.com/Harshbailurkar/Harshbailurkar/assets/113308692/ed4c57e7-aa03-48f8-bd86-a6a353940353)
-
+        src="https://github.com/Harshbailurkar/Harshbailurkar/assets/113308692/ed4c57e7-aa03-48f8-bd86-a6a353940353
 "
         width="48"
         height="48"
@@ -177,7 +174,7 @@ I'm a passionate third-year Computer Science Engineering student with a strong i
     </td>
     <td align="center" height="108" width="108">
       <img
-        src="![image](https://github.com/Harshbailurkar/Harshbailurkar/assets/113308692/946b7040-9219-4f4b-83bd-bf57bfde0022)
+        src="https://github.com/Harshbailurkar/Harshbailurkar/assets/113308692/946b7040-9219-4f4b-83bd-bf57bfde0022
 "
         width="48"
         height="48"
