@@ -13,7 +13,7 @@ I'm a passionate third-year Computer Science Engineering student with a strong i
 - 🔁 Moto: Eat Sleep Code Repeat
 
 ## 🔧 Technologies & Tools
-# Frontend Development:
+### Frontend Development:
 <table>
   <tr>
     <td align="center" height="108" width="108">
