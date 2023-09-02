@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Harsh Bailurkar!
 
-![Harsh Bailurkar](https://your-image-url.com/your-profile-image.jpg)
+![Harsh Bailurkar]
 
 I'm a passionate third-year Computer Science Engineering student with a strong interest in web development and full-stack development. 🚀
 
