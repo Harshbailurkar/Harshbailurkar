@@ -20,9 +20,9 @@ I love turning ideas into interactive and user-friendly web applications. My ski
 
 Let's connect and collaborate on exciting web development projects! You can reach me on:
 
-- GitHub: [github.com/harshbailurkar](https://github.com/harshbailurkar)
-- LinkedIn: [linkedin.com/in/harshbailurkar](https://www.linkedin.com/in/harshbailurkar/)
-- Twitter: [@harshbailurkar](https://twitter.com/harshbailurkar)
+- GitHub: [github.com/harshbailurkar](https://github.com/Harshbailurkar)
+- LinkedIn: [linkedin.com/in/harshbailurkar](https://www.linkedin.com/in/harsh-bailurkar-011291247/)
+- Instagram: [@harsh_bailurkar](https://www.instagram.com/harsh_bailurkar/)
 
 ## 🚀 Check Out My Work
 
