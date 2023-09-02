@@ -2,6 +2,18 @@
 
 I'm a passionate third-year Computer Science Engineering student with a strong interest in web development and full-stack development. 🚀
 
+🌎 I'm based in Maharastra,India 
+🖥️ See My Portfolio
+🔭 I’m currently working on Frontend Mentor challenge and taking the #Javascript100 challenge
+🌱 I’m currently learning Algorithms via Code Signal, taking up AWS Cloud Practitioner as well.
+☀️ I'm starting to learn how to contribute to open source projects.
+👯 Currently working with a dev team of 4 people and building different projects together.
+🤔 I’m looking for help with creating a kick-ass Resume.
+💬 Ask me about a project collaboration.
+✉️ For work opportunities, you can contact me at hello@ashmoreno.dev
+😄 Pronouns: He/Him
+🔁 Moto: Eat Sleep Code Repeat
+
 ## 🔧 Technologies & Tools
 
 - Frontend Development: HTML, CSS, JavaScript, React
