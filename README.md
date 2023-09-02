@@ -1,7 +1,5 @@
 # 👋 Hello, I'm Harsh Bailurkar!
 
-![Harsh Bailurkar]
-
 I'm a passionate third-year Computer Science Engineering student with a strong interest in web development and full-stack development. 🚀
 
 ## 🔧 Technologies & Tools
