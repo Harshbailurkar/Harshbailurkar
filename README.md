@@ -54,7 +54,7 @@ I'm a passionate third-year Computer Science Engineering student with a strong i
       </td>
   </tr>
 </table>
-- #  Backend Development: 
+- Backend Development: 
 <table>
   <tr>
     <td align="center" height="108" width="108">
@@ -105,7 +105,7 @@ I'm a passionate third-year Computer Science Engineering student with a strong i
       <br /><strong> MySQL</strong>
   </tr>
 </table>
-# - Programming Languages: 
+- Programming Languages: 
 <table>
   <tr>
     <td align="center" height="108" width="108">
@@ -159,7 +159,7 @@ I'm a passionate third-year Computer Science Engineering student with a strong i
       <br /><strong>C#</strong>
   </tr>
 </table>
-# - UI/UX Design: 
+- UI/UX Design: 
 <table>
   <tr>
     <td align="center" height="108" width="108">
@@ -185,9 +185,9 @@ I'm a passionate third-year Computer Science Engineering student with a strong i
     
   </tr>
 </table>
-# - IDE: VS Code
-# - Version Control: GitHub
-# - Hosting: Netlify
+- IDE: VS Code
+- Version Control: GitHub
+- Hosting: Netlify
 
 ## 🌟 What I Do
 
