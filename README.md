@@ -46,7 +46,8 @@ I'm a passionate third-year Computer Science Engineering student with a strong i
     <td align="center" height="108" width="108">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
-        width="48"
+        width
+="48"
         height="48"
         alt="React"
       />
@@ -115,17 +116,17 @@ I'm a passionate third-year Computer Science Engineering student with a strong i
 "
         width="48"
         height="48"
-        alt="HTML"
+        alt="Python"
       />
       <br /><strong>Python</strong>
     </td>
     <td align="center" height="108" width="108">
       <img
-        src="https://github.com/Harshbailurkar/Harshbailurkar/assets/113308692/cb352a24-b176-45fe-8206-9ee7616fe549
+        src="
 "
         width="48"
         height="48"
-        alt="CSS3"
+        alt="Java"
       />
       <br /><strong>Java</strong>
     </td>
@@ -135,7 +136,7 @@ I'm a passionate third-year Computer Science Engineering student with a strong i
 "
         width="48"
         height="48"
-        alt="JavaScript"
+        alt="C"
       />
       <br /><strong>C</strong>
       </td>
@@ -145,16 +146,16 @@ I'm a passionate third-year Computer Science Engineering student with a strong i
 "
         width="48"
         height="48"
-        alt="React"
+        alt="C++"
       />
       <br /><strong>C++</strong>
       </td>
     <td align="center" height="108" width="108">
       <img
-        src="https://github.com/Harshbailurkar/Harshbailurkar/assets/113308692/1b50fe41-ac50-4971-9c88-161f8117ff2a"
+        src=""
         width="48"
         height="48"
-        alt="React"
+        alt="C#"
       />
       <br /><strong>C#</strong>
   </tr>
@@ -168,7 +169,7 @@ I'm a passionate third-year Computer Science Engineering student with a strong i
 "
         width="48"
         height="48"
-        alt="HTML"
+        alt="Figma"
       />
       <br /><strong>Figma</strong>
     </td>
@@ -178,7 +179,7 @@ I'm a passionate third-year Computer Science Engineering student with a strong i
 "
         width="48"
         height="48"
-        alt="CSS3"
+        alt="Adobe XD"
       />
       <br /><strong>Adobe XD</strong>
     </td>
