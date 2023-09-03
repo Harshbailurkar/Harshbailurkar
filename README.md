@@ -110,6 +110,7 @@ I'm a passionate third-year Computer Science Engineering student with a strong i
   </tr>
 </table>
 
+
 ### Programming Languages:
 
 <table>
@@ -161,6 +162,7 @@ I'm a passionate third-year Computer Science Engineering student with a strong i
     </td>
   </tr>
 </table>
+
 
 ### UI/UX Design:
 
