@@ -126,7 +126,7 @@ I'm a passionate third-year Computer Science Engineering student with a strong i
     </td>
     <td align="center" height="108" width="108">
       <img
-        src="URL_TO_JAVA_ICON"
+        src="https://icons8.com/icon/13679/java"
         width="48"
         height="48"
         alt="Java"
@@ -144,7 +144,7 @@ I'm a passionate third-year Computer Science Engineering student with a strong i
     </td>
     <td align="center" height="108" width="108">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cpp/cpp-original.svg"
+        src="https://icons8.com/icon/40669/c%2B%2B"
         width="48"
         height="48"
         alt="C++"
@@ -153,7 +153,7 @@ I'm a passionate third-year Computer Science Engineering student with a strong i
     </td>
     <td align="center" height="108" width="108">
       <img
-        src="URL_TO_C_SHARP_ICON"
+        src="https://icons8.com/icon/Fycm8TUhWmFU/c-sharp-logo"
         width="48"
         height="48"
         alt="C#"
