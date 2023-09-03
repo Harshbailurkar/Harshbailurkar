@@ -202,7 +202,7 @@ I'm a passionate third-year Computer Science Engineering student with a strong i
     </table>
     
 ### Hosting:
-    <table>
+  <table>
   <tr>
     <td align="center" height="108" width="108">
      <img width="48" height="48" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/external-netlify-a-cloud-computing-company-that-offers-hosting-and-serverless-backend-services-for-static-websites-logo-color-tal-revivo.png" alt="external-netlify-a-cloud-computing-company-that-offers-hosting-and-serverless-backend-services-for-static-websites-logo-color-tal-revivo"
