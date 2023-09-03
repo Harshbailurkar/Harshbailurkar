@@ -138,7 +138,7 @@ I'm a passionate third-year Computer Science Engineering student with a strong i
     </td>
     <td align="center" height="108" width="108">
       <img
-        src=""
+        <img width="48" height="48" src="https://img.icons8.com/color/48/c-plus-plus-logo.png" alt="c-plus-plus-logo"
         width="48"
         height="48"
         alt="C++"
