@@ -63,8 +63,7 @@ I'm a passionate third-year Computer Science Engineering student with a strong i
 <table>
   <tr>
     <td align="center" height="108" width="108">
-      <img
-        src="https://icons8.com/icon/t9oCxEN7McHZ/nodejs"
+      <img width="48" height="48" src="https://img.icons8.com/color/48/nodejs.png" alt="nodejs"
         width="48"
         height="48"
         alt="Node.js"
@@ -99,8 +98,7 @@ I'm a passionate third-year Computer Science Engineering student with a strong i
       <br /><strong>Firebase</strong>
     </td>
     <td align="center" height="108" width="108">
-      <img
-        src="https://icons8.com/icon/39858/mysql-logo"
+      <img width="50" height="50" src="https://img.icons8.com/ios/50/mysql-logo.png" alt="mysql-logo"
         width="48"
         height="48"
         alt="MySQL"
@@ -146,8 +144,7 @@ I'm a passionate third-year Computer Science Engineering student with a strong i
       <br /><strong>C++</strong>
     </td>
     <td align="center" height="108" width="108">
-      <img
-        src="./img.icons8.png"
+      <img width="64" height="64" src="https://img.icons8.com/nolan/64/c-sharp-logo.png" alt="c-sharp-logo"
         width="48"
         height="48"
         alt="C#"
