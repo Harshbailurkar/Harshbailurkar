@@ -204,6 +204,24 @@ I'm a passionate third-year Computer Science Engineering student with a strong i
   </tr>
 </table>
 
+### Other:
+<table>
+  <tr>
+    <td align="center" height="108" width="108">
+     <img width="48" height="48" src="https://img.icons8.com/color/48/npm.png" alt="npm"/>
+      <br /><strong>NPM</strong>
+    </td>
+    <td align="center" height="108" width="108">
+     <img width="48" height="48" src="https://img.icons8.com/color/48/trello.png" alt="trello"/>
+      <br /><strong>Trello</strong>
+    </td>
+    <td align="center" height="108" width="108">
+     <img width="48" height="48" src="https://img.icons8.com/color/48/chatgpt.png" alt="chatgpt"/>
+      <br /><strong>ChatGPT</strong>
+    </td>
+  </tr>
+</table>
+
 
 ## 🌟 What I Do
 
