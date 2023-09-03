@@ -186,7 +186,7 @@ I'm a passionate third-year Computer Science Engineering student with a strong i
       <br /><strong>VS Code</strong>
     </td>
     <td align="center" height="108" width="108">
-     <img width="48" height="48" src="https://img.icons8.com/sf-black-filled/64/000000/github.png" alt="github"/>
+     <img width="64" height="64" src="https://img.icons8.com/glyph-neue/64/000000/github.png" alt="github"/>
       <br /><strong>GitHub</strong>
     </td>
     <td align="center" height="108" width="108">
