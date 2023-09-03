@@ -178,39 +178,22 @@ I'm a passionate third-year Computer Science Engineering student with a strong i
   </tr>
 </table>
 
-### IDE: 
+### IDE, Version Control, Hosting:
 <table>
   <tr>
     <td align="center" height="108" width="108">
-     <img width="48" height="48" src="https://img.icons8.com/color/48/visual-studio-code-2019.png"
-        alt="VS Code" />
+      <img width="48" height="48" src="https://img.icons8.com/color/48/visual-studio-code-2019.png" alt="VS Code" />
       <br /><strong>VS Code</strong>
-    </td></tr>
-  </table>
-  
-### Version Control:
-  
-  <table>
-  <tr>
+    </td>
     <td align="center" height="108" width="108">
-     <img width="48" height="48" src="https://img.icons8.com/cute-clipart/64/github.png" 
-        alt="GitHub"
-      />
+      <img width="48" height="48" src="https://img.icons8.com/cute-clipart/64/github.png" alt="GitHub" />
       <br /><strong>GitHub</strong>
     </td>
-    </tr>
-    </table>
-    
-### Hosting:
-  <table>
-  <tr>
     <td align="center" height="108" width="108">
-     <img width="48" height="48" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/external-netlify-a-cloud-computing-company-that-offers-hosting-and-serverless-backend-services-for-static-websites-logo-color-tal-revivo.png" alt="external-netlify-a-cloud-computing-company-that-offers-hosting-and-serverless-backend-services-for-static-websites-logo-color-tal-revivo"
-        alt="Netlify"
-      />
+      <img width="48" height="48" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/external-netlify-a-cloud-computing-company-that-offers-hosting-and-serverless-backend-services-for-static-websites-logo-color-tal-revivo.png" alt="Netlify" />
       <br /><strong>Netlify</strong>
     </td>
-    </tr>
+  </tr>
 </table>
 
 ## 🌟 What I Do
