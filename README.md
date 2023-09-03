@@ -3,7 +3,7 @@
 I'm a passionate third-year Computer Science Engineering student with a strong interest in web development and full-stack development. 🚀
 
 - 🌎 I'm based in Maharashtra, India
-- 🖥️ [See My Portfolio](#) (Replace with your portfolio URL)
+- 🖥️ [See My Portfolio](#)
 - 🔭 I’m currently working on Frontend Mentor challenge and taking the #Javascript100 challenge
 - 🌱 I’m currently learning Algorithms via Code Signal, taking up AWS Cloud Practitioner as well.
 - ☀️ I'm starting to learn how to contribute to open source projects.
