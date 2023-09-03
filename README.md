@@ -64,7 +64,7 @@ I'm a passionate third-year Computer Science Engineering student with a strong i
   <tr>
     <td align="center" height="108" width="108">
       <img
-        src="URL_TO_NODE_JS_ICON"
+        src="https://icons8.com/icon/t9oCxEN7McHZ/nodejs"
         width="48"
         height="48"
         alt="Node.js"
@@ -100,7 +100,7 @@ I'm a passionate third-year Computer Science Engineering student with a strong i
     </td>
     <td align="center" height="108" width="108">
       <img
-        src="URL_TO_MYSQL_ICON"
+        src="https://icons8.com/icon/39858/mysql-logo"
         width="48"
         height="48"
         alt="MySQL"
