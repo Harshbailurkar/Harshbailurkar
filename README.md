@@ -1,8 +1,9 @@
 # 👋 Hello, I'm Harsh Bailurkar!
 
 I'm a passionate third-year Computer Science Engineering student with a strong interest in web development and full-stack development. 🚀
-- 🌎 I'm based in Maharastra,India 
-- 🖥️ See My Portfolio
+
+- 🌎 I'm based in Maharashtra, India
+- 🖥️ [See My Portfolio](#) (Replace with your portfolio URL)
 - 🔭 I’m currently working on Frontend Mentor challenge and taking the #Javascript100 challenge
 - 🌱 I’m currently learning Algorithms via Code Signal, taking up AWS Cloud Practitioner as well.
 - ☀️ I'm starting to learn how to contribute to open source projects.
@@ -13,7 +14,9 @@ I'm a passionate third-year Computer Science Engineering student with a strong i
 - 🔁 Moto: Eat Sleep Code Repeat
 
 ## 🔧 Technologies & Tools
+
 ### Frontend Development:
+
 <table>
   <tr>
     <td align="center" height="108" width="108">
@@ -42,78 +45,78 @@ I'm a passionate third-year Computer Science Engineering student with a strong i
         alt="JavaScript"
       />
       <br /><strong>JavaScript</strong>
-      </td>
+    </td>
     <td align="center" height="108" width="108">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
-        width
-="48"
+        width="48"
         height="48"
         alt="React"
       />
       <br /><strong>React.js</strong>
-      </td>
+    </td>
   </tr>
 </table>
-### Backend Development: 
+
+### Backend Development:
+
 <table>
   <tr>
     <td align="center" height="108" width="108">
       <img
-        src="
-"
+        src="URL_TO_NODE_JS_ICON"
         width="48"
         height="48"
-        alt="HTML"
+        alt="Node.js"
       />
       <br /><strong>Node.js</strong>
     </td>
     <td align="center" height="108" width="108">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"
         width="48"
         height="48"
-        alt="CSS3"
+        alt="Express.js"
       />
       <br /><strong>Express.js</strong>
     </td>
     <td align="center" height="108" width="108">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"
         width="48"
         height="48"
-        alt="JavaScript"
+        alt="MongoDB"
       />
       <br /><strong>MongoDB</strong>
-      </td>
+    </td>
     <td align="center" height="108" width="108">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"
         width="48"
         height="48"
-        alt="React"
+        alt="Firebase"
       />
       <br /><strong>Firebase</strong>
-      </td>
+    </td>
     <td align="center" height="108" width="108">
       <img
-        src="https://github.com/Harshbailurkar/Harshbailurkar/assets/113308692/5ac2d53d-e4f4-463b-ae6b-0d857d5358c6
-"
+        src="URL_TO_MYSQL_ICON"
         width="48"
         height="48"
-        alt="React"
+        alt="MySQL"
       />
-      <br /><strong> MySQL</strong>
+      <br /><strong>MySQL</strong>
+    </td>
   </tr>
 </table>
-### Programming Languages: 
+
+### Programming Languages:
+
 <table>
   <tr>
     <td align="center" height="108" width="108">
       <img
-        src="https://github.com/Harshbailurkar/Harshbailurkar/assets/113308692/a2f002d9-f924-4024-b47b-3fbb10acda64
-
-"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
         width="48"
         height="48"
         alt="Python"
@@ -122,8 +125,7 @@ I'm a passionate third-year Computer Science Engineering student with a strong i
     </td>
     <td align="center" height="108" width="108">
       <img
-        src="
-"
+        src="URL_TO_JAVA_ICON"
         width="48"
         height="48"
         alt="Java"
@@ -132,41 +134,41 @@ I'm a passionate third-year Computer Science Engineering student with a strong i
     </td>
     <td align="center" height="108" width="108">
       <img
-        src="https://github.com/Harshbailurkar/Harshbailurkar/assets/113308692/f9cb692e-acef-4e41-866f-c068ebbd468b
-"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"
         width="48"
         height="48"
         alt="C"
       />
       <br /><strong>C</strong>
-      </td>
+    </td>
     <td align="center" height="108" width="108">
       <img
-        src="https://github.com/Harshbailurkar/Harshbailurkar/assets/113308692/1386c79b-0431-4b76-a7a9-d78e7d83b4b6
-"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cpp/cpp-original.svg"
         width="48"
         height="48"
         alt="C++"
       />
       <br /><strong>C++</strong>
-      </td>
+    </td>
     <td align="center" height="108" width="108">
       <img
-        src=""
+        src="URL_TO_C_SHARP_ICON"
         width="48"
         height="48"
         alt="C#"
       />
       <br /><strong>C#</strong>
+    </td>
   </tr>
 </table>
-### UI/UX Design: 
+
+### UI/UX Design:
+
 <table>
   <tr>
     <td align="center" height="108" width="108">
       <img
-        src="https://github.com/Harshbailurkar/Harshbailurkar/assets/113308692/ed4c57e7-aa03-48f8-bd86-a6a353940353
-"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"
         width="48"
         height="48"
         alt="Figma"
@@ -175,17 +177,16 @@ I'm a passionate third-year Computer Science Engineering student with a strong i
     </td>
     <td align="center" height="108" width="108">
       <img
-        src="https://github.com/Harshbailurkar/Harshbailurkar/assets/113308692/1b50fe41-ac50-4971-9c88-161f8117ff2a
-"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg"
         width="48"
         height="48"
         alt="Adobe XD"
       />
       <br /><strong>Adobe XD</strong>
     </td>
-    
   </tr>
 </table>
+
 ### IDE: VS Code
 ### Version Control: GitHub
 ### Hosting: Netlify
