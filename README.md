@@ -55,6 +55,14 @@ I'm a passionate third-year Computer Science Engineering student with a strong i
       />
       <br /><strong>React.js</strong>
     </td>
+     <td align="center" height="108" width="108">
+     <img width="48" height="48" src="https://img.icons8.com/color/48/bootstrap.png" alt="bootstrap"/>
+      <br /><strong>Bootstrap</strong>
+    </td>
+    <td align="center" height="108" width="108">
+    <img width="48" height="48" src="https://img.icons8.com/color/48/tailwind_css.png" alt="tailwind_css"/>
+      <br /><strong>Tailwind CSS</strong>
+    </td>
   </tr>
 </table>
 
@@ -195,6 +203,7 @@ I'm a passionate third-year Computer Science Engineering student with a strong i
     </td>
   </tr>
 </table>
+
 
 ## 🌟 What I Do
 
