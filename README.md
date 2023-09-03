@@ -5,7 +5,7 @@ I'm a passionate third-year Computer Science Engineering student with a strong i
 - 🌎 I'm based in Maharashtra, India
 - 🖥️ [See My Portfolio](#)
 - 🔭 I’m currently working on Frontend Mentor challenge and taking the #Javascript100 challenge
-- 🌱 I’m currently learning Algorithms via Code Signal, taking up AWS Cloud Practitioner as well.
+- 🌱 I’m currently learning Algorithms via leetCode, taking up AWS Cloud Practitioner as well.
 - ☀️ I'm starting to learn how to contribute to open source projects.
 - 👯 Currently working with a dev team of 4 people and building different projects together.
 - 🤔 I’m looking for help with creating a kick-ass Resume.
