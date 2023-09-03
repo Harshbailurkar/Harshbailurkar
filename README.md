@@ -152,7 +152,7 @@ I'm a passionate third-year Computer Science Engineering student with a strong i
     </td>
     <td align="center" height="108" width="108">
       <img
-        src="https://icons8.com/icon/Fycm8TUhWmFU/c-sharp-logo"
+        src="./img.icons8.png"
         width="48"
         height="48"
         alt="C#"
