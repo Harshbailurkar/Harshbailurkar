@@ -124,12 +124,7 @@ I'm a passionate third-year Computer Science Engineering student with a strong i
       <br /><strong>Python</strong>
     </td>
     <td align="center" height="108" width="108">
-      <img
-        src="https://icons8.com/icon/13679/java"
-        width="48"
-        height="48"
-        alt="Java"
-      />
+      <img width="48" height="48" src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" alt="java-coffee-cup-logo--v1"  width="48" height="48" alt="Java""/>
       <br /><strong>Java</strong>
     </td>
     <td align="center" height="108" width="108">
