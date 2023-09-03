@@ -71,8 +71,7 @@ I'm a passionate third-year Computer Science Engineering student with a strong i
       <br /><strong>Node.js</strong>
     </td>
     <td align="center" height="108" width="108">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"
+     <img width="48" height="48" src="https://img.icons8.com/fluency/48/000000/express-js.png" 
         width="48"
         height="48"
         alt="Express.js"
@@ -98,7 +97,7 @@ I'm a passionate third-year Computer Science Engineering student with a strong i
       <br /><strong>Firebase</strong>
     </td>
     <td align="center" height="108" width="108">
-      <img width="50" height="50" src="https://img.icons8.com/ios/50/mysql-logo.png" alt="mysql-logo"
+     <img width="48" height="48" src="https://img.icons8.com/color/48/mysql-logo.png"
         width="48"
         height="48"
         alt="MySQL"
