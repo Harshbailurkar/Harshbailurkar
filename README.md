@@ -36,8 +36,7 @@ I'm a passionate third-year Computer Science Engineering student with a strong i
       />
       <br /><strong>CSS3</strong>
     </td>
-    <
-td align="center" height="108" width="108">
+    <td align="center" height="108" width="108">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"
         width="48"
