@@ -4,7 +4,7 @@ I'm a passionate third-year Computer Science Engineering student with a strong i
 
 - 🌎 Maharashtra, India
 - 🖥️ [See My Portfolio](#)
-- 🔭 I’m currently working on Frontend Mentor challenge and taking the #Javascript100 challenge
+- 🔭 I’m currently working on Frontend Mentor challenge and taking the #100DaysOfCode challenge
 - 🌱 I’m currently learning Algorithms via leetCode, taking up AWS Cloud Practitioner as well.
 - 👯 Currently working with a dev team of 4 people and building different projects together.
 - 🤔 I’m looking for help with creating a kick-ass Resume.
@@ -36,7 +36,8 @@ I'm a passionate third-year Computer Science Engineering student with a strong i
       />
       <br /><strong>CSS3</strong>
     </td>
-    <td align="center" height="108" width="108">
+    <
+td align="center" height="108" width="108">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"
         width="48"
