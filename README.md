@@ -6,7 +6,6 @@ I'm a passionate third-year Computer Science Engineering student with a strong i
 - 🖥️ [See My Portfolio](#)
 - 🔭 I’m currently working on Frontend Mentor challenge and taking the #100DaysOfCode challenge
 - 🌱 I’m currently learning Algorithms via leetCode, taking up AWS Cloud Practitioner as well.
-- 👯 Currently working with a dev team of 3 people and building different projects together.
 - 🤔 I’m looking for help improving my Resume.
 - 💬 Ask me about a project collaboration.
 - 😄 Pronouns: He/Him
