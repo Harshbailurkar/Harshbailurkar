@@ -242,7 +242,7 @@ Explore my repositories to see some of my latest projects and contributions. Fee
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Harshbailurkar&theme=dark&hide_border=false)
 <br>
 <br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshbailurkar&langs_count=5&theme=dark">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshbailurkar&langs_count=5&theme=tokyonight">
 
 ## 🌟 Thank You!
 
