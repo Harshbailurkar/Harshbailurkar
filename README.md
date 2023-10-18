@@ -11,7 +11,7 @@ I'm a passionate third-year Computer Science Engineering student with a strong i
 - 😄 Pronouns: He/Him
 - 🔁 Moto: Eat Sleep Code Repeat
 
-[![](https://visitcount.itsvg.in/api?id=Harshbailurkar&icon=0&color=0)](https://visitcount.itsvg.in) <br/>
+[![](https://visitcount.itsvg.in/api?id=Harshbailurkar&icon=0&color=0)] <br/>
 ## 🔧 Technologies & Tools
 
 ### Frontend Development:
