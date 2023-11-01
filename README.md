@@ -220,6 +220,7 @@ I'm a passionate third-year Computer Science Engineering student with a strong i
     </td>
   </tr>
 </table>
+
 ### AWS Academy Graduate:
 <table>
   <tr>
