@@ -225,7 +225,7 @@ I'm a passionate third-year Computer Science Engineering student with a strong i
   <tr>
     <td> AWS Academy Cloud Architecting</td>
   </tr>
-  <tr><img src="./"/></tr>
+  <tr><img src="./aws-academy-graduate-aws-academy-cloud-architecting.png"/></tr>
 </table>
 
 ## 🌟 What I Do
