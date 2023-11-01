@@ -220,10 +220,10 @@ I'm a passionate third-year Computer Science Engineering student with a strong i
     </td>
   </tr>
 </table>
-## AWS Academy Graduate
+### AWS Academy Graduate:
 <table>
   <tr>
-    <td> AWS Academy Cloud Architecting</td>
+   AWS Academy Cloud Architecting
   </tr>
   <tr><img src="./aws-academy-graduate-aws-academy-cloud-architecting.png"/></tr>
 </table>
