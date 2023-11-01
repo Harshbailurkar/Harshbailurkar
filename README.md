@@ -229,7 +229,7 @@ I'm a passionate third-year Computer Science Engineering student with a strong i
     <img src="./aws-academy-graduate-aws-academy-cloud-foundations.png">
   </tr>
   <tr>
-   AWS Academy Cloud Architecting ![]([https://github-readme-streak-stats.herokuapp.com/?user=Harshbailurkar&theme=tokyonight&hide_border=false](https://www.credly.com/badges/e3451bf1-6511-474e-b595-c256ec7a9450/print))
+   AWS Academy Cloud Architecting   : https://www.credly.com/badges/e3451bf1-6511-474e-b595-c256ec7a9450/print
     <img src="./aws-academy-graduate-aws-academy-cloud-architecting.png"/>
   </tr>
 </tr>
