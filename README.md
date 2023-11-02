@@ -227,10 +227,12 @@ I'm a passionate third-year Computer Science Engineering student with a strong i
   <tr>
     <td>
    <a href="https://www.credly.com/badges/e9ca128e-2fd8-49a6-bfc5-3f54e28f5855/public_url"> AWS Academy Cloud Foundations :</a>
+      <br>
     <a href="https://www.credly.com/badges/e9ca128e-2fd8-49a6-bfc5-3f54e28f5855/public_url"><img src="./aws-academy-graduate-aws-academy-cloud-foundations.png"></a>
       </td>
     <td>
   <a href="https://www.credly.com/badges/e3451bf1-6511-474e-b595-c256ec7a9450/public_url"> AWS Academy Cloud Architecting   : </a>
+      <br>
    <a href="https://www.credly.com/badges/e3451bf1-6511-474e-b595-c256ec7a9450/public_url"> <img src="./aws-academy-graduate-aws-academy-cloud-architecting.png"/></a>
       </td>
   </tr>
