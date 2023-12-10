@@ -185,60 +185,6 @@ I'm a passionate third-year Computer Science Engineering student with a strong i
   </tr>
 </table>
 
-### IDE, Version Control, Hosting:
-<table>
-  <tr>
-    <td align="center" height="108" width="108">
-      <img width="48" height="48" src="https://img.icons8.com/color/48/visual-studio-code-2019.png" alt="VS Code" />
-      <br /><strong>VS Code</strong>
-    </td>
-    <td align="center" height="108" width="108">
-     <img width="64" height="64" src="https://img.icons8.com/glyph-neue/64/000000/github.png" alt="github"/>
-      <br /><strong>GitHub</strong>
-    </td>
-    <td align="center" height="108" width="108">
-      <img width="48" height="48" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/external-netlify-a-cloud-computing-company-that-offers-hosting-and-serverless-backend-services-for-static-websites-logo-color-tal-revivo.png" alt="Netlify" />
-      <br /><strong>Netlify</strong>
-    </td>
-  </tr>
-</table>
-
-### Other:
-<table>
-  <tr>
-    <td align="center" height="108" width="108">
-     <img width="48" height="48" src="https://img.icons8.com/color/48/npm.png" alt="npm"/>
-      <br /><strong>NPM</strong>
-    </td>
-    <td align="center" height="108" width="108">
-     <img width="48" height="48" src="https://img.icons8.com/color/48/trello.png" alt="trello"/>
-      <br /><strong>Trello</strong>
-    </td>
-    <td align="center" height="108" width="108">
-     <img width="48" height="48" src="https://img.icons8.com/color/48/chatgpt.png" alt="chatgpt"/>
-      <br /><strong>ChatGPT</strong>
-    </td>
-  </tr>
-</table>
-
-### AWS Academy Graduate:
-<table>
-  <tr>
-  <tr>
-    <td>
-   <a href="https://www.credly.com/badges/e9ca128e-2fd8-49a6-bfc5-3f54e28f5855/public_url"> AWS Academy Cloud Foundations :</a>
-      <br>
-    <a href="https://www.credly.com/badges/e9ca128e-2fd8-49a6-bfc5-3f54e28f5855/public_url"><img src="./aws-academy-graduate-aws-academy-cloud-foundations.png"></a>
-      </td>
-    <td>
-  <a href="https://www.credly.com/badges/e3451bf1-6511-474e-b595-c256ec7a9450/public_url"> AWS Academy Cloud Architecting   : </a>
-      <br>
-   <a href="https://www.credly.com/badges/e3451bf1-6511-474e-b595-c256ec7a9450/public_url"> <img src="./aws-academy-graduate-aws-academy-cloud-architecting.png"/></a>
-      </td>
-  </tr>
-</tr>
-</table>
-
 ## 🌟 What I Do
 
 I love turning ideas into interactive and user-friendly web applications. My skills span from crafting elegant UI/UX designs to building robust backend systems. Whether it's a personal project or a collaborative effort, I'm always excited to learn and grow.
