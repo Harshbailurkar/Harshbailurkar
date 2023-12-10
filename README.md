@@ -259,7 +259,7 @@ Explore my repositories to see some of my latest projects and contributions. Fee
 <tabel>
 <tr>
   <td>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Harshbailurkar&theme=tokyonight&hide_border=false">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Harshbailurkar&theme=tokyonight&hide_border=false" width="300">
 </td>
   <td>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshbailurkar&langs_count=5&theme=tokyonight">
