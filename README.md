@@ -193,10 +193,11 @@ Let's connect and collaborate on exciting web development projects! You can reac
 Explore my repositories to see some of my latest projects and contributions. Feel free to open issues, provide feedback, or collaborate on exciting ventures together. Let's build something amazing! 💡
 
 <div style="display: flex; justify-content: space-around;">
-  <img src="https://github-readme-stats.vercel.app/api?username=harshbailurkar&show_icons=true&count_private=true&hide=contribs,issues&theme=tokyonight" width="400">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Harshbailurkar&theme=tokyonight&hide_border=false" width="400">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshbailurkar&langs_count=5&theme=tokyonight" width="400">
+  <img src="https://github-readme-stats.vercel.app/api?username=harshbailurkar&show_icons=true&count_private=true&hide=contribs,issues&theme=tokyonight" style="width: 300px;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Harshbailurkar&theme=tokyonight&hide_border=false" style="width: 300px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshbailurkar&langs_count=5&theme=tokyonight" style="width: 300px;">
 </div>
+
 
 
 
