@@ -194,8 +194,8 @@ Explore my repositories to see some of my latest projects and contributions. Fee
 
 <div style="display: flex; justify-content: space-around;">
   <img width="300" height="300px" src="https://github-readme-stats.vercel.app/api?username=harshbailurkar&show_icons=true&count_private=true&hide=contribs,issues&theme=tokyonight">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Harshbailurkar&theme=tokyonight&hide_border=false" style="width: 300px; height:300px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshbailurkar&langs_count=5&theme=tokyonight" style="width: 300px; height:300px;">
+  <img width="300" height="300px" src="https://github-readme-streak-stats.herokuapp.com/?user=Harshbailurkar&theme=tokyonight&hide_border=false" >
+  <img width="300" height="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshbailurkar&langs_count=5&theme=tokyonight">
 </div>
 
 
