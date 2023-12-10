@@ -21,8 +21,8 @@ I'm a passionate third-year Computer Science Engineering student with a strong i
     <td align="center" height="80" width="80">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg"
-        width="48"
-        height="48"
+        width="30"
+        height="30"
         alt="HTML"
       />
       <br /><strong>HTML5</strong>
