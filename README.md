@@ -18,7 +18,7 @@ I'm a passionate third-year Computer Science Engineering student with a strong i
 
 <table>
   <tr>
-    <td align="center" height="108" width="108">
+    <td align="center" height="80" width="80">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg"
         width="48"
