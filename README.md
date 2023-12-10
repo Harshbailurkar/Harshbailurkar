@@ -69,44 +69,42 @@ I'm a passionate third-year Computer Science Engineering student with a strong i
 
 <table>
   <tr>
-    <td align="center" height="108" width="108">
-      <img width="48" height="48" src="https://img.icons8.com/color/48/nodejs.png" alt="nodejs"
+    <td align="center" height="80" width="80">
+      <img width="30" height="30" src="https://img.icons8.com/color/48/nodejs.png" alt="nodejs"
         width="48"
         height="48"
         alt="Node.js"
       />
       <br /><strong>Node.js</strong>
     </td>
-    <td align="center" height="108" width="108">
+    <td align="center" height="80" width="80">
      <img width="48" height="48" src="https://img.icons8.com/fluency/48/000000/express-js.png" 
-        width="48"
-        height="48"
+        width="30"
+        height="30"
         alt="Express.js"
       />
       <br /><strong>Express.js</strong>
     </td>
-    <td align="center" height="108" width="108">
+    <td align="center" height="80" width="80">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"
-        width="48"
-        height="48"
+        width="30"
+        height="30"
         alt="MongoDB"
       />
       <br /><strong>MongoDB</strong>
     </td>
-    <td align="center" height="108" width="108">
+    <td align="center" height="80" width="80">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"
-        width="48"
-        height="48"
+        width="30"
+        height="30"
         alt="Firebase"
       />
       <br /><strong>Firebase</strong>
     </td>
-    <td align="center" height="108" width="108">
-     <img width="48" height="48" src="https://img.icons8.com/color/48/mysql-logo.png"
-        width="48"
-        height="48"
+    <td align="center" height="80" width="80">
+     <img width="30" height="30" src="https://img.icons8.com/color/48/mysql-logo.png"
         alt="MySQL"
       />
       <br /><strong>MySQL</strong>
@@ -118,41 +116,37 @@ I'm a passionate third-year Computer Science Engineering student with a strong i
 
 <table>
   <tr>
-    <td align="center" height="108" width="108">
+    <td align="center" height="80" width="80">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
-        width="48"
-        height="48"
+        width="30"
+        height="30"
         alt="Python"
       />
       <br /><strong>Python</strong>
     </td>
-    <td align="center" height="108" width="108">
-      <img width="48" height="48" src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" alt="java-coffee-cup-logo--v1"  width="48" height="48" alt="Java""/>
+    <td align="center" height="80" width="80">
+      <img width="30" height="30" src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" alt="java-coffee-cup-logo--v1"  width="48" height="48" alt="Java""/>
       <br /><strong>Java</strong>
     </td>
-    <td align="center" height="108" width="108">
+    <td align="center" height="80" width="80">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"
-        width="48"
-        height="48"
+        width="30"
+        height="30"
         alt="C"
       />
       <br /><strong>C</strong>
     </td>
-    <td align="center" height="108" width="108">
+    <td align="center" height="80" width="80">
       <img
-        <img width="48" height="48" src="https://img.icons8.com/color/48/c-plus-plus-logo.png" alt="c-plus-plus-logo"
-        width="48"
-        height="48"
+        <img width="30" height="30" src="https://img.icons8.com/color/48/c-plus-plus-logo.png" alt="c-plus-plus-logo"
         alt="C++"
       />
       <br /><strong>C++</strong>
     </td>
-    <td align="center" height="108" width="108">
-      <img width="64" height="64" src="https://img.icons8.com/nolan/64/c-sharp-logo.png" alt="c-sharp-logo"
-        width="48"
-        height="48"
+    <td align="center" height="80" width="80">
+      <img width="30" height="30" src="https://img.icons8.com/nolan/64/c-sharp-logo.png" alt="c-sharp-logo"
         alt="C#"
       />
       <br /><strong>C#</strong>
@@ -164,20 +158,20 @@ I'm a passionate third-year Computer Science Engineering student with a strong i
 
 <table>
   <tr>
-    <td align="center" height="108" width="108">
+    <td align="center" height="80" width="80">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"
-        width="48"
-        height="48"
+        width="30"
+        height="30"
         alt="Figma"
       />
       <br /><strong>Figma</strong>
     </td>
-    <td align="center" height="108" width="108">
+    <td align="center" height="80" width="80">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg"
-        width="48"
-        height="48"
+        width="30"
+        height="30"
         alt="Adobe XD"
       />
       <br /><strong>Adobe XD</strong>
