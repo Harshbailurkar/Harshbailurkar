@@ -27,39 +27,39 @@ I'm a passionate third-year Computer Science Engineering student with a strong i
       />
       <br /><strong>HTML5</strong>
     </td>
-    <td align="center" height="108" width="108">
+    <td align="center" height="80" width="80">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg"
-        width="48"
-        height="48"
+        width="30"
+        height="30"
         alt="CSS3"
       />
       <br /><strong>CSS3</strong>
     </td>
-    <td align="center" height="108" width="108">
+    <td align="center" height="80" width="80">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"
-        width="48"
-        height="48"
+        width="30"
+        height="30"
         alt="JavaScript"
       />
       <br /><strong>JavaScript</strong>
     </td>
-    <td align="center" height="108" width="108">
+    <td align="center" height="80" width="80">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
-        width="48"
-        height="48"
+        width="30"
+        height="30"
         alt="React"
       />
       <br /><strong>React.js</strong>
     </td>
-     <td align="center" height="108" width="108">
-     <img width="48" height="48" src="https://img.icons8.com/color/48/bootstrap.png" alt="bootstrap"/>
+     <td align="center" height="80" width="80">
+     <img width="30" height="30" src="https://img.icons8.com/color/48/bootstrap.png" alt="bootstrap"/>
       <br /><strong>Bootstrap</strong>
     </td>
-    <td align="center" height="108" width="108">
-    <img width="48" height="48" src="https://img.icons8.com/color/48/tailwind_css.png" alt="tailwind_css"/>
+    <td align="center" height="80" width="80">
+    <img width="30" height="30" src="https://img.icons8.com/color/48/tailwind_css.png" alt="tailwind_css"/>
       <br /><strong>Tailwind CSS</strong>
     </td>
   </tr>
