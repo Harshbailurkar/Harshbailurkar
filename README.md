@@ -4,12 +4,9 @@ I'm a passionate third-year Computer Science Engineering student with a strong i
 
 - 🌎 Maharashtra, India
 - 🖥️ [See My Portfolio](#)
-- 🔭 I’m currently working on Frontend Mentor challenge and taking the #100DaysOfCode challenge
 - 🌱 I’m currently learning Algorithms via leetCode, taking up AWS Cloud Practitioner as well.
 - 🤔 I’m looking for help improving my Resume.
 - 💬 Ask me about a project collaboration.
-
-
 
 ![](https://visitcount.itsvg.in/api?id=Harshbailurkar&icon=0&color=0) <br/>
 ## 🔧 Technologies & Tools
