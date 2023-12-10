@@ -256,10 +256,11 @@ Let's connect and collaborate on exciting web development projects! You can reac
 Explore my repositories to see some of my latest projects and contributions. Feel free to open issues, provide feedback, or collaborate on exciting ventures together. Let's build something amazing! 💡
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=harshbailurkar&show_icons=true&count_private=true&hide=contribs,issues&theme=tokyonight) <br/><br/>
+<div>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Harshbailurkar&theme=tokyonight&hide_border=false)
-<br>
-<br>
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshbailurkar&langs_count=5&theme=tokyonight">
+</div>
 
 ## 🌟 Thank You!
 
