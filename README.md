@@ -3,7 +3,7 @@
 I'm a passionate third-year Computer Science Engineering student with a strong interest in web development and full-stack development. 🚀
 
 - 🌎 Maharashtra, India
-- 🖥️ [See My Portfolio](https://master-portfolio-harshbailurkar.netlify.app/)
+- 🖥️ [See My Portfolio](www.harshbailurkar-portfolio.tech)
 - 🌱 I’m currently learning Algorithms via leetCode, taking up AWS Cloud Practitioner as well.
 - 🤔 I’m looking for help improving my Resume.
 - 💬 Ask me about a project collaboration.
