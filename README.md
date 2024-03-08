@@ -175,11 +175,6 @@ I'm a passionate third-year Computer Science Engineering student with a strong i
     </td>
   </tr>
 </table>
-
-## 🌟 What I Do
-
-I love turning ideas into interactive and user-friendly web applications. My skills span from crafting elegant UI/UX designs to building robust backend systems. Whether it's a personal project or a collaborative effort, I'm always excited to learn and grow.
-
 ## 🌐 Connect with Me
 
 Let's connect and collaborate on exciting web development projects! You can reach me on:
@@ -197,12 +192,3 @@ Explore my repositories to see some of my latest projects and contributions. Fee
   <img  src="https://github-readme-streak-stats.herokuapp.com/?user=Harshbailurkar&theme=dark&hide_border=false" >
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshbailurkar&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact">
 </div>
-
-
-
-
-
-## 🌟 Thank You!
-
-Thanks for visiting my GitHub profile. Let's code, innovate, and create together! 😄
-
