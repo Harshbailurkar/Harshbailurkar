@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Harsh Bailurkar!
 
-I'm a passionate third-year Computer Science Engineering student with a strong interest in Frontend web development and full-stack development. 🚀
+I'm a passionate Final Year Computer Science Engineering student with a strong interest in Frontend web development and full-stack development. 🚀
 
 - 🌎 Maharashtra, India
 - 🖥️ [See My Portfolio](https://harshbailurkar-portfolio.tech)
